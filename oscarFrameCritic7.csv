@@ -1,0 +1,202 @@
+Film,Award,Highest,Shared,Year,MetaCritic
+Dances with Wolves,Winner,No,1,1990,72
+Awakenings,Nominee,No,1,1990,74
+Ghost,Nominee,No,1,1990,52
+The Godfather Part III,Nominee,No,1,1990,60
+Goodfellas,Nominee,Yes,1,1990,89
+The Silence of the Lambs,Winner,No,1,1991,85
+Beauty and the Beast,Nominee,Yes,1,1991,95
+Bugsy,Nominee,No,1,1991,80
+JFK,Nominee,No,1,1991,72
+The Prince of Tides,Nominee,No,1,1991,65
+Unforgiven,Winner,No,1,1992,85
+The Crying Game,Nominee,Yes,1,1992,90
+A Few Good Men,Nominee,No,1,1992,62
+Howards End,Nominee,No,1,1992,89
+Scent of a Woman,Nominee,No,1,1992,59
+Schindler's List,Winner,Yes,1,1993,94
+The Fugitive,Nominee,No,1,1993,87
+In the Name of the Father,Nominee,No,2,1993,84
+The Piano,Nominee,No,1,1993,89
+The Remains of the Day,Nominee,No,2,1993,84
+Forrest Gump,Winner,No,1,1994,82
+Four Weddings and a Funeral,Nominee,No,1,1994,81
+Pulp Fiction,Nominee,Yes,1,1994,94
+Quiz Show,Nominee,No,1,1994,88
+The Shawshank Redemption,Nominee,No,1,1994,80
+Braveheart,Winner,No,1,1995,68
+Apollo 13,Nominee,No,1,1995,77
+Babe,Nominee,No,1,1995,83
+The Postman (Il Postino),Nominee,No,1,1995,81
+Sense and Sensibility,Nominee,Yes,1,1995,84
+The English Patient,Winner,No,2,1996,87
+Fargo,Nominee,No,1,1996,85
+Jerry Maguire,Nominee,No,1,1996,77
+Secrets & Lies,Nominee,Yes,1,1996,91
+Shine,Nominee,No,2,1996,87
+Titanic,Winner,No,2,1997,75
+As Good as It Gets,Nominee,No,1,1997,67
+The Full Monty,Nominee,No,2,1997,75
+Good Will Hunting,Nominee,No,1,1997,70
+L.A. Confidential,Nominee,Yes,1,1997,90
+Shakespeare in Love,Winner,No,1,1998,87
+Elizabeth,Nominee,No,1,1998,75
+Life Is Beautiful,Nominee,No,1,1998,59
+Saving Private Ryan,Nominee,Yes,1,1998,91
+The Thin Red Line,Nominee,No,1,1998,78
+American Beauty,Winner,Yes,1,1999,86
+The Cider House Rules,Nominee,No,1,1999,75
+The Green Mile,Nominee,No,1,1999,61
+The Insider,Nominee,No,1,1999,84
+The Sixth Sense,Nominee,No,1,1999,64
+Gladiator,Winner,No,1,2000,67
+Chocolat,Nominee,No,1,2000,64
+"Crouching Tiger, Hidden Dragon",Nominee,Yes,1,2000,93
+Erin Brockovich,Nominee,No,1,2000,73
+Traffic,Nominee,No,1,2000,86
+A Beautiful Mind,Winner,No,1,2001,72
+Gosford Park,Nominee,No,1,2001,90
+In the Bedroom,Nominee,No,1,2001,86
+The Lord of the Rings: The Fellowship of the Ring,Nominee,Yes,1,2001,92
+Moulin Rouge!,Nominee,No,1,2001,66
+Chicago,Winner,No,1,2002,82
+Gangs of New York,Nominee,No,1,2002,72
+The Hours,Nominee,No,1,2002,80
+The Lord of the Rings: The Two Towers,Nominee,Yes,1,2002,87
+The Pianist,Nominee,No,1,2002,85
+The Lord of the Rings: The Return of the King,Winner,Yes,1,2003,94
+Lost in Translation,Nominee,No,1,2003,89
+Master and Commander: The Far Side of the World,Nominee,No,1,2003,81
+Mystic River,Nominee,No,1,2003,84
+Seabiscuit,Nominee,No,1,2003,72
+Million Dollar Baby,Winner,No,1,2004,86
+The Aviator,Nominee,No,1,2004,77
+Finding Neverland,Nominee,No,1,2004,67
+Ray,Nominee,No,1,2004,73
+Sideways,Nominee,Yes,1,2004,94
+Crash,Winner,No,1,2005,66
+Brokeback Mountain,Nominee,Yes,1,2005,87
+Capote,Nominee,No,1,2005,88
+"Good Night, and Good Luck",Nominee,No,1,2005,80
+Munich,Nominee,No,1,2005,74
+The Departed,Winner,No,1,2006,85
+Babel,Nominee,No,1,2006,69
+Letters from Iwo Jima,Nominee,No,1,2006,89
+Little Miss Sunshine,Nominee,No,1,2006,80
+The Queen,Nominee,Yes,1,2006,91
+No Country for Old Men,Winner,No,1,2007,91
+Atonement,Nominee,No,1,2007,85
+Juno,Nominee,No,1,2007,81
+Michael Clayton,Nominee,No,1,2007,82
+There Will Be Blood,Nominee,Yes,1,2007,93
+Slumdog Millionaire,Winner,Yes,1,2008,86
+The Curious Case of Benjamin Button,Nominee,No,1,2008,70
+Frost/Nixon,Nominee,No,1,2008,80
+Milk,Nominee,No,1,2008,84
+The Reader,Nominee,No,1,2008,58
+The Hurt Locker,Winner,Yes,1,2009,95
+Avatar,Nominee,No,2,2009,83
+The Blind Side,Nominee,No,1,2009,53
+District 9,Nominee,No,1,2009,81
+An Education,Nominee,No,1,2009,85
+Inglourious Basterds,Nominee,No,1,2009,69
+Precious: Based on the Novel 'Push' by Sapphire,Nominee,No,2,2009,79
+A Serious Man,Nominee,No,2,2009,79
+Up,Nominee,No,1,2009,88
+Up in the Air,Nominee,No,2,2009,83
+The King's Speech,Winner,No,1,2010,88
+127 Hours,Nominee,No,1,2010,82
+Black Swan,Nominee,No,2,2010,79
+The Fighter,Nominee,No,2,2010,79
+Inception,Nominee,No,1,2010,74
+The Kids Are All Right,Nominee,No,1,2010,86
+The Social Network,Nominee,Yes,1,2010,95
+Toy Story 3,Nominee,No,1,2010,92
+True Grit,Nominee,No,1,2010,80
+Winter's Bone,Nominee,No,1,2010,90
+The Artist,Winner,Yes,1,2011,89
+The Descendants,Nominee,No,1,2011,84
+Extremely Loud & Incredibly Close,Nominee,No,1,2011,46
+The Help,Nominee,No,1,2011,62
+Hugo,Nominee,No,1,2011,83
+Midnight in Paris,Nominee,No,1,2011,81
+Moneyball,Nominee,No,1,2011,87
+The Tree of Life,Nominee,No,1,2011,85
+War Horse,Nominee,No,1,2011,72
+Argo,Winner,No,3,2012,86
+Amour,Nominee,No,1,2012,94
+Beasts of the Southern Wild,Nominee,No,3,2012,86
+Django Unchained,Nominee,No,2,2012,81
+Life of Pi,Nominee,No,1,2012,79
+Lincoln,Nominee,No,3,2012,86
+Les Misérables,Nominee,No,1,2012,63
+Silver Linings Playbook,Nominee,No,2,2012,81
+Zero Dark Thirty,Nominee,Yes,1,2012,95
+American Hustle,Nominee,No,2,2013,90
+Captain Phillips,Nominee,No,1,2013,83
+Dallas Buyers Club,Nominee,No,1,2013,84
+Gravity,Nominee,Yes,2,2013,96
+12 Years a Slave,Winner,Yes,2,2013,96
+Her,Nominee,No,2,2013,90
+Nebraska,Nominee,No,1,2013,86
+Philomena,Nominee,No,1,2013,77
+The Wolf of Wall Street,Nominee,No,1,2013,75
+Birdman or (The Unexpected Virtue of Ignorance),Winner,No,1,2014,87
+American Sniper,Nominee,No,1,2014,72
+Boyhood,Nominee,Yes,1,2014,100
+The Grand Budapest Hotel,Nominee,No,3,2014,88
+The Imitation Game,Nominee,No,1,2014,73
+Selma,Nominee,No,3,2014,88
+The Theory of Everything,Nominee,No,1,2014,72
+Whiplash,Nominee,No,3,2014,88
+Spotlight,Winner,Yes,1,2015,93
+The Big Short,Nominee,No,2,2015,81
+Bridge of Spies,Nominee,No,2,2015,81
+Brooklyn,Nominee,No,1,2015,88
+Mad Max: Fury Road,Nominee,No,1,2015,90
+The Martian,Nominee,No,1,2015,80
+The Revenant,Nominee,No,1,2015,76
+Room,Nominee,No,1,2015,86
+Moonlight,Winner,Yes,1,2016,99
+Arrival,Nominee,No,1,2016,81
+Fences,Nominee,No,1,2016,79
+Hacksaw Ridge,Nominee,No,1,2016,71
+Hell or High Water,Nominee,No,1,2016,88
+Hidden Figures,Nominee,No,1,2016,74
+La La Land,Nominee,No,1,2016,93
+Lion,Nominee,No,1,2016,69
+Manchester by the Sea,Nominee,No,1,2016,96
+The Shape of Water,Winner,No,1,2017,87
+Call Me by Your Name,Nominee,No,1,2017,93
+Darkest Hour,Nominee,No,1,2017,75
+Dunkirk,Nominee,Yes,2,2017,94
+Get Out,Nominee,No,1,2017,84
+Lady Bird,Nominee,Yes,2,2017,94
+Phantom Thread,Nominee,No,1,2017,90
+The Post,Nominee,No,1,2017,83
+"Three Billboards Outside Ebbing, Missouri",Nominee,No,1,2017,88
+Green Book,Winner,No,1,2018,69
+Black Panther,Nominee,No,1,2018,88
+BlacKkKlansman,Nominee,No,1,2018,83
+Bohemian Rhapsody,Nominee,No,1,2018,49
+The Favourite,Nominee,No,1,2018,90
+Roma,Nominee,Yes,1,2018,96
+A Star Is Born,Nominee,No,1,2018,59
+Vice,Nominee,No,1,2018,61
+Parasite,Winner,Yes,1,2019,96
+1917,Nominee,No,1,2019,78
+Ford v Ferrari,Nominee,No,1,2019,81
+The Irishman,Nominee,No,2,2019,94
+Jojo Rabbit,Nominee,No,1,2019,58
+Joker,Nominee,No,1,2019,59
+Little Women,Nominee,No,1,2019,91
+Marriage Story,Nominee,No,2,2019,94
+Once Upon a Time in Hollywood,Nominee,No,1,2019,84
+Nomadland,Winner,Yes,1,2020,93
+The Father,Nominee,No,1,2020,88
+Judas and the Black Messiah,Nominee,No,1,2020,85
+Mank,Nominee,No,1,2020,79
+Minari,Nominee,No,1,2020,89
+Promising Young Woman,Nominee,No,1,2020,73
+Sound of Metal,Nominee,No,1,2020,82
+The Trial of the Chicago 7,Nominee,No,1,2020,76
